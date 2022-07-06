@@ -1,0 +1,11 @@
+/httpclient-example.iml
+/**/HELP.md
+/**/target
+/**/target/
+/web-example/HELP.md
+/.idea
+/web-example/target/classes/
+/**/rebel.xml
+/**/mvnw
+/**/mvnw.cmd
+/**/*.iml
